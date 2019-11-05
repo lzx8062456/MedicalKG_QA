@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 #coding:utf-8
 
+# 切分词
 class CutWords():
     # 初始化设置
     def __init__(self):
